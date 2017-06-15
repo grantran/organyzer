@@ -15,9 +15,7 @@
     "morgan": "~1.8.1",
     "nodemon": "^1.11.0",
     "pg": "^6.2.4",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "semantic-ui-react": "^0.68.5",
+    "semantic-ui": "^2.2.10",
     "serve-favicon": "~2.4.2"
   }
 }
